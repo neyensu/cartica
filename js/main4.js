@@ -1,0 +1,5 @@
+typed = new Typed('.typed2', {
+    strings: ['Adivina quien se hizo el tontolon y solo hizo tres días, YOOOOOO, obviamente, bueno, lamentablente me queda menos de un día para entregar esta carta y mi mente de dormido me dice que tengo que empezar a escribir esto, así que sin más... La intención estuvo, puedo decir que esta carta es la mas larga que intente hacer así que es un logro, para mi "para mí", como si fuera algo que me fui a olvidar, bueno ya sabes TE FELICITO POR TODO ESTO, y no sé más, que encuentres a ese chico que me mostraste hoy JAJA, full real, pero no sé que mas poner en esta carta, así QUE FELICITACIONES, (ME CAIGO A PEDAZOS AYUDA)PDD nunca sabras que es la figura, nunca la terminare JAJAJAJ. pero a cambio te dejo una imagen de mi profe :D y te dejo un video... "https://youtu.be/g_qXH5hOl98" '],
+    typeSpeed: 50,
+    loop: false,
+});
